@@ -39,7 +39,7 @@ def create_notebook(cells):
             notebook['cells'].append({
                 "cell_type": "markdown",
                 "metadata": {},
-                "source": [cell['source'] + '\n']  # Ensure it ends with a newline
+                "source": [cell['source'] + '\n']
             })
 
     return notebook
