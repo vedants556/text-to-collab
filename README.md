@@ -1,6 +1,3 @@
-Here’s your improved README in markdown format:
-
-```markdown
 # Text to Colab Notebook Converter
 
 This Python application converts plain text input into a structured Google Colab notebook, making it easier to create and share interactive documents.
@@ -25,6 +22,7 @@ You can install wxPython using pip:
 ```bash
 pip install wxPython
 ```
+
 
 ## Installation
 
